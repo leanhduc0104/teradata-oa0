@@ -1,0 +1,1 @@
+# teradata-oa0
